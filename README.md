@@ -1,2 +1,0 @@
-# contribution
-Drupal contribution
